@@ -1,0 +1,2 @@
+# AkaTEST001
+TEXT編集の練習
